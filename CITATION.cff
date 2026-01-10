@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you refer to this article, please cite it as below."
+
+version: 1.0.0
+date-released: 2023-07-06
+title: "Using multiple Terraform AWS Providers for global infrastructure"
+url: "https://writing.aeydr.dev/notes/terraform-aws-and-globally-enabled-infrastructure"
+authors:
+- given-names: "aeydr"
+
+preferred-citation:
+  type: article
+  journal: "The Architectural Decision Record"
+  authors:
+  - given-names: "aeydr"
+
+  title: "Using multiple Terraform AWS Providers for global infrastructure"
+  month: 07
+  year: 2023

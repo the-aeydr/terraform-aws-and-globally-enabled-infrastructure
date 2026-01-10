@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: terraform-aws-and-globally-enabled-infrastructure
+  description: Using multiple Terraform AWS providers to facilitate globally provisioned infrastructure
+  tags:
+    - terraform
+    - terraform
+  annotations:
+    displayName: Using multiple Terraform AWS Providers for global infrastructure
+    github.com/project-slug: the-aeydr/terraform-aws-and-globally-enabled-infrastructure
+spec:
+  type: documentation
+  lifecycle: experimental
